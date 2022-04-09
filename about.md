@@ -11,3 +11,5 @@ My name is Dmytro and here's my blog in which I'll periodically write posts on d
 The opinions are my own and do not reflect the ones of any of my past / present / future business partners or employers.
 
 :v:
+
+P.S. [Some of my professional competencies](https://bit.ly/doroshenko-bwc)
