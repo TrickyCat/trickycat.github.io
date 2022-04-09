@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Book Review: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]"
-description: "Brief review of a book: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]"
-tags: ["book", "review", "c#"]
+description: "Brief review of a book: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]. Score: 5 / 10"
+tags: ["book", "review", "c#", "apress", "fail"]
 ---
+
+![Book Cover: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]](/content/binary/img/books/olsson-csharp-10-quick-syntax-reference-2022.jpg)
 
 Recently, I finally felt the strength to take a partial break from the constant ingestion of the current news feed in :ukraine: and decided to read this book to get more familiar with C# 10.
 
@@ -27,9 +29,9 @@ But that's absolutely not a problem since it's not the design goal of this book.
 
 Even though I would like to see more topics covered I understand that the book would have been 1000+ pages long to meet my expectations in this thus I'm fine with what is given by the author.
 
-**Personal Evaluation: 2.5 / 5**
+**Personal Evaluation: 5 / 10**
 
-Then why not 5 / 5? Because I found a couple of mistakes :man_facepalming:.
+Then why not 10 / 10? Because I found a couple of mistakes :man_facepalming:.
 
 ### Some of them are:
 
