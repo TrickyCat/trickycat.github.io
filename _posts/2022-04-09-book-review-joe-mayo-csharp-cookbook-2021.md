@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Book Review: Joe Mayo - C# Cookbook [2021]"
-description: "Brief review of a book: Joe Mayo - C# Cookbook [2021]. Score: 6.5 / 10"
+title: "Book Review: Joe Mayo - C# Cookbook. Modern Recipes for Professional Developers [2021]"
+description: "Brief review of a book: Joe Mayo - C# Cookbook. Modern Recipes for Professional Developers [2021]. Score: 6.5 / 10"
 tags: ["book", "review", "c#", "o'reilly", "fail"]
 ---
 
-![Book Cover: Joe Mayo - C# Cookbook [2021]](/content/binary/img/books/mayo-csharp-cookbook-2021.jpg)
+![Book Cover: Joe Mayo - C# Cookbook. Modern Recipes for Professional Developers [2021]](/content/binary/img/books/mayo-csharp-cookbook-2021.jpg)
 
 Recently I've read and re-read a couple more books on C#, and one of them was this one.
 

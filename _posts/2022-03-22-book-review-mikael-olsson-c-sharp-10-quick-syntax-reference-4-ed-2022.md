@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Book Review: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]"
-description: "Brief review of a book: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]. Score: 5 / 10"
+title: "Book Review: Mikael Olsson - C# 10 Quick Syntax Reference. A Pocket Guide to the Language, APIs, and Library (4 ed)[2022]"
+description: "Brief review of a book: Mikael Olsson - C# 10 Quick Syntax Reference. A Pocket Guide to the Language, APIs, and Library (4 ed)[2022]. Score: 5 / 10"
 tags: ["book", "review", "c#", "apress", "fail"]
 ---
 
-![Book Cover: Mikael Olsson - C# 10 Quick Syntax Reference (4 ed)[2022]](/content/binary/img/books/olsson-csharp-10-quick-syntax-reference-2022.jpg)
+![Book Cover: Mikael Olsson - C# 10 Quick Syntax Reference. A Pocket Guide to the Language, APIs, and Library (4 ed)[2022]](/content/binary/img/books/olsson-csharp-10-quick-syntax-reference-2022.jpg)
 
 Recently, I finally felt the strength to take a partial break from the constant ingestion of the current news feed in :ukraine: and decided to read this book to get more familiar with C# 10.
 
