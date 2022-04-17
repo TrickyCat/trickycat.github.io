@@ -155,7 +155,7 @@ static byte[] GenerateSha256Hash(string password, byte[] salt)
 
 Unfortunately, this is **NOT** the general rule of thumb about the Tasks in C#: the computations abstracted with the `Task` / `Task<T>` are **NOT** restarted / re-evaluated on each and every await in all possible circumstances. 
 
-Perhaps, the author was able to mix and but not that lucky to match the concepts of Tasks in C# with asynchronous computations from F# which are "cold" computations and thus are re-evaluated on each request for the result :man_shrugging:.
+Perhaps, the author was able to mix but not that lucky to match and distinguish the concepts of Tasks in C# with asynchronous computations from F# which are "cold" computations and thus are re-evaluated on each request for the result :man_shrugging:.
 
 I've added minor changes to the author's code for illustration purposes: added console logging calls.
 
