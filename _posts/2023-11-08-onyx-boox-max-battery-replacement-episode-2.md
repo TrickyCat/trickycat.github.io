@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Replace the Battery in ONYX BOOX MAX: Episode 2"
+title: "Let's Replace the Battery in ONYX BOOX MAX: Episode 2 - Attack of the Charger"
 description: "A continuation of a concise guide on replacing the battery in an ONYX BOOX MAX e-book"
 tags: ["diy", "repair", "battery", "battery replacement", "e-reader", "onyx boox", "onyx boox max"]
 ---
