@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Replace the Battery in ONYX BOOX MAX"
+title: "Let's Replace the Battery in ONYX BOOX MAX: Episode 1 - Phantom Success"
 description: "A concise guide on replacing the battery in an ONYX BOOX MAX e-book"
 tags: ["diy", "repair", "battery", "battery replacement", "e-reader", "onyx boox", "onyx boox max"]
 ---
