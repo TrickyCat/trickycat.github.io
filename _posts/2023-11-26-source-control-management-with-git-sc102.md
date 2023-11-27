@@ -37,4 +37,6 @@ I purchased it last year as a part of some Black Friday deals, and now the deadl
 
 - And yes, I passed it, got 100% (with 70% as the passing threshold)
 
+[![I know Git kung fu](/content/binary/img/posts/2023-11-26/sc102-my-git-kung-fu.webp)](https://1drv.ms/i/s!AqP7CryK4Xu4gRNJlvWuZVP9bSDY?e=7g7fDn){:target="_blank"}
+
 :v:
