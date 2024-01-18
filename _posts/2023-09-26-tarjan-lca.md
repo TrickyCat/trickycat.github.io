@@ -3,6 +3,7 @@ layout: post
 title: "Offline Lowest Common Ancestor in a Tree"
 description: "Find the lowest common ancestor of pairs of nodes in the tree"
 tags: ["graph", "tree", "rooted tree", "lca", "lowest common ancestor", "tarjan's offline lowest common ancestor", "algorithm", "code"]
+comments: false
 ---
 
 ![Tree](/content/binary/img/tree.webp){:style="display:block; margin-left:auto; margin-right:auto; max-width: 70%;"}
