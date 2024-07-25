@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Let's Use a Custom SSL Certificate for Tomato Router"
-description: "Let's configure the router which uses the Tomato firmware to use the custom certificate for its administrative web UI"
-tags: ["networking", "router", "tomato", "tomato firmware", "ssl", "openssl", "custom ssl", "devops", "admin", "administration"]
+description: "Have you ever dreamt about having your own custom SSL certificate on a Tomato router? It's time to make this dream come true! 😎🐱‍💻 Let's configure the router which uses the Tomato firmware to use the custom certificate for its administrative web UI"
+tags: ["networking", "router", "tomato", "tomato firmware", "linux", "ssl", "openssl", "custom ssl", "devops", "admin", "administration"]
+image: /content/img/2024-07-22-tomato-router-custom-ssl/tomato-shield-love.webp
 ---
+
+![Happy Tomato](/content/img/2024-07-22-tomato-router-custom-ssl/tomato-shield-love.webp){:style="display:block; margin-left:auto; margin-right:auto; max-width: 50%;"}
 
 Hello :wave:
 
