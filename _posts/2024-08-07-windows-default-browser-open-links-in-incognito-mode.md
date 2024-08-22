@@ -44,3 +44,7 @@ So, just update the registry value for your browser of choice, then set it as th
 P.S. Obviously, the specific registry keys and format of switches are subject to change by the corresponding software vendors. In case of change, use your intuition and search for `\<browser_binary_name>.exe` across the registry and look for the most promising keys by name.
 
 :v:
+
+<br/>
+
+**Update:** after installing the OS updates, it turned out that the above-mentioned registry settings were reset for all browsers, so better be sure to re-apply the changes (manually or automatically)
