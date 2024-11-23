@@ -69,11 +69,3 @@ google_analytics: G-WTTPLCWT9S
 feed:
   excerpt_only: true
   # posts_limit: 3
-
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: tricky-cat-blog
-
-url: https://blog.tricky.cat # needed for Disqus & Jekyll integration
