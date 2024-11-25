@@ -48,3 +48,21 @@ P.S. Obviously, the specific registry keys and format of switches are subject to
 <br/>
 
 **Update:** after installing the OS updates, it turned out that the above-mentioned registry settings were reset for all browsers, so better be sure to re-apply the changes (manually or automatically)
+
+**Update:** we can create a simple `.reg` file (e.g. `browser_incognito.reg`) with the following contents to ease and speed up the changes:
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\BraveHTML\shell\open\command]
+@="\"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe\" -incognito --single-argument %1"
+
+[HKEY_CLASSES_ROOT\MSEdgeHTM\shell\open\command]
+@="\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" -inprivate --single-argument %1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\ChromeHTML\shell\open\command]
+@="\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --incognito --single-argument %1"
+
+[HKEY_CLASSES_ROOT\FirefoxURL-308046B0AF4A39CB\shell\open\command]
+@="\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" -osint -private-window -url \"%1\""
+```
