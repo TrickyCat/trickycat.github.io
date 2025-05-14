@@ -8,7 +8,7 @@ comments: false
 
 ![Book Cover: Vaskaran Sarcar - Task Programming in C# and .NET: Modern Day Foundation for Asynchronous Programming [2025]](/content/img/2025-04-12-book-review-sarcar-task-programming-in-csharp-2025/sarcar-task-prog-csharp-2025.webp)
 
-This book caught my attention due to its freshness (released just around a month ago), light topic, and size (I expected to some condensed wisdom / recipes / good refreshers), so I decided to give it a try.
+This book caught my attention due to its freshness (released just around a month ago), light topic, and size (I expected to see some condensed wisdom / recipes / good refreshers), so I decided to give it a try.
 
 Long story short:
 
@@ -18,7 +18,7 @@ Long story short:
 
 - **Will I recommend it to anyone? no**
 
-- The book can (questionably) be useful only to junior-level engineers, but I would suggest them reading something else instead (even Marvel comic books or better official Microsoft docs on the subject are incomparably better than this book) 
+- The book can (questionably) be useful only to junior-level engineers, but I would suggest them to read something else instead (even Marvel comic books or better official Microsoft docs on the subject are incomparably better than this book) 
 
 - The material is quite shallow and misses important information (like that it really means to have a graph of Tasks attached to each other)
 
@@ -32,7 +32,7 @@ Long story short:
 
     ![Book page 145](/content/img/2025-04-12-book-review-sarcar-task-programming-in-csharp-2025/example-1-2.webp)
 
-    Here, the presense of the call `Task.FromResult(flagValue)` makes absolutely zero effect on the output of the `TimeConsumingMethod()` call: we can leave it, we can delete it, or we can change it to something like `Task.FromResult(-42)`: in either way it does not affect the outcome simply because its task is not returned from the method (making this caching wisdom useless) :man_facepalming:
+    Here, the presence of the call `Task.FromResult(flagValue)` makes absolutely zero effect on the output of the `TimeConsumingMethod()` call: we can leave it, we can delete it, or we can change it to something like `Task.FromResult(-42)`: in either way it does not affect the outcome simply because its task is not returned from the method (making this "caching wisdom" useless) :man_facepalming:
 
 - But the great mystery was revealed in Appendix B: the author prefers to publish a shallow book on a widely-known topic across C# and Java once (or better several times) per year, and heroically prefers quantity over quality
 
